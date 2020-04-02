@@ -225,20 +225,8 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-.demo-1 {
-    --color-text: #333;
-    --color-link: #6ac9de;
-}
-
 .demo-2 {
-    background-image: url("../img/demo2.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: 50% 0;
-}
-
-.demo-3 {
-    background-image: url("../img/demo3.jpg");
+    background-image: url("/demo2.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 0;
