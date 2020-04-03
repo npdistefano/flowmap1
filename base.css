@@ -226,7 +226,7 @@ body {
 }
 
 .demo-2 {
-    background-image: url("/demo2.jpg");
+    background-image: url("demo2.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 0;
